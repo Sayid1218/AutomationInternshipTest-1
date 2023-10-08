@@ -26,7 +26,7 @@ Here is Step by Step Details Process:
 12.	This is the Sample Excel File Link.
 
 
-# Used Technology:
+## Used Technology:
 * Maven
 * Java
 * TestNG
