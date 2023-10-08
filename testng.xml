@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Exel Test">
+ 
+  <test name="SignIn">
+      <classes>
+       <class name="Qus.automationInternship.tests.GoogleSearchTest"/>
+      </classes>
+  </test> 
+ 
+	</suite>   
