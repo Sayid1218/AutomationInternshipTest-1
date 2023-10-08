@@ -25,4 +25,10 @@ Here is Step by Step Details Process:
 11.	The longest and shortest option will be put in the excel file.
 12.	This is the Sample Excel File Link.
 
-   
+
+# Used Technology:
+* Maven
+* Java
+* TestNG
+* Apache Poi
+* Ms Excel
