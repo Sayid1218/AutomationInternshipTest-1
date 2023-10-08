@@ -13,7 +13,7 @@ Here is Step by Step Details Process:
 6.	This Excel Sheet have Multiple Tabs like
 ![image](https://github.com/Sayid1218/AutomationInternshipTest-1/assets/97175166/765560da-0d87-477e-88fb-1584c48fbfc1)
 7.	We have to write an script which will
-a.	First Take Data according to “Date”
+	a. First Take Data according to “Date”
 ![image](https://github.com/Sayid1218/AutomationInternshipTest-1/assets/97175166/be358383-5fd7-4e4d-aec7-2388cfcd714f)
 ![image](https://github.com/Sayid1218/AutomationInternshipTest-1/assets/97175166/07228932-b353-4d07-bffa-8c3a448c73c3)
 
