@@ -13,11 +13,11 @@ Here is Step by Step Details Process:
 6.	This Excel Sheet have Multiple Tabs like
 ![image](https://github.com/Sayid1218/AutomationInternshipTest-1/assets/97175166/765560da-0d87-477e-88fb-1584c48fbfc1)
 7.	We have to write an script which will
-	a. First Take Data according to “Date”
+* First Take Data according to “Date”
 ![image](https://github.com/Sayid1218/AutomationInternshipTest-1/assets/97175166/be358383-5fd7-4e4d-aec7-2388cfcd714f)
 ![image](https://github.com/Sayid1218/AutomationInternshipTest-1/assets/97175166/07228932-b353-4d07-bffa-8c3a448c73c3)
 
-b.	Means if today is monday it will deal with monday Data
+*	Means if today is monday it will deal with monday Data
 8.	When it goes to monday It will find Keywords list
 9.	According to given keyword It will search in google
 10.	It will find out longest and shortest option
